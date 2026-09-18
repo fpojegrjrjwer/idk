@@ -1,7 +1,1 @@
-# -
-곰 세마리가 한 집에 있어
-아빠곰 엄마곰 애기곰
-아빠곰은 뚱뚱해 
-엄마곰은 날씬해
-애기곰은 너무귀여워
-으쓱으쓱 잘한다
+<img src="https://i.namu.wiki/i/oZUtXVI0In0qx-43ubxFRfMhsdFWsK1XUxq1bqjK2va0IfyHh9BNx6hrKrGDQxjDcKKX2QD0tDNkVjVhgj3vpwIV2_ArCbv-8e7WMuKYasVj2ARArJfHXrYzLZvh6gqnB7yPfwVzAc5NXOCL6MzE1w.webp" width="600" alt="이미지 설명">
